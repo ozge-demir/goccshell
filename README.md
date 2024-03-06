@@ -1,2 +1,2 @@
 # goccshell
-Build your own Shell using Go
+Build my own Shell using Go
